@@ -24,7 +24,7 @@
 	 
 	 /* BG Image */
 	#bodyH {
-	 background-image: href="../images/bgv6.png";
+	 background-image: url(../images/bgv6.png);
 	}
 	
 	#bannerH {
