@@ -1,0 +1,200 @@
+     /* Navigation Bar*/
+	 
+	 ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     }
+	 
+	 li {
+	 float: left;
+	 width: 20%;
+	 }
+	 
+	 li a {
+      display: block;
+	  text-align: center;
+      padding: 8px;
+      background-color: rgb(125,0,0);
+	  color: white;
+      text-decoration: none;
+     }
+	
+	 /* Homepage Styling*/
+	 
+	 /* BG Image */
+	#bodyH {
+	 background-image: url(../images/bgv6.png);
+	}
+	
+	#bannerH {
+	height: 345px;
+	width: 80%;
+	margin-left: 10%;
+	border-style: double;
+	border-width: 8px;
+	}
+	
+	/* Title */
+	
+	#h1H { 
+	position: absolute;
+	font-size: 80px;
+	margin-left: 32%;
+	color: red;
+	text-shadow: 2px 2px 5px black;
+	top: 20px;
+	font-family: 'DM Serif Display', serif;
+	}
+	
+	/* Pictures & MM */
+	
+	#profilesH {
+	height: 333px;
+	width: 333px;
+	margin-left: 20%;
+	margin-top: 20px;
+	float: left;
+	clear: left;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	}
+	
+	#profiles2H {
+	height: 333px;
+	width: 333px;
+	margin-right: 20%;
+	margin-top: 20px;
+	float: right;
+	clear: right;
+	border-style: solid;
+	border-width: 3px;
+	border-color: white;
+	}
+	
+	iframe {
+	width: 560px;
+	height: 315px;
+	}
+	/* Links to Pages */
+	
+	#descH {
+	position: relative;
+	margin-left: 25%;
+	margin-top: 10px;
+	float: left;
+	clear: left;
+	display: block;
+	background-color: white;
+	border-style: solid;
+	border-width: 4px;
+	border-color: rgb(110,5,11);
+	text-decoration: none;
+	color: black;
+	}
+	#desc2H {
+	position: relative;
+	margin-right: 25%;
+	margin-top: 10px;
+	float:right;
+	clear: right;
+	display: block;
+	background-color: white;
+	border-style: solid;
+	border-width: 4px;
+	border-color: rgb(110,5,11);
+	text-decoration: none;
+	color: black;
+	}
+	
+	/* End of Homepage Styling */
+	/* Page Styling */
+	
+	/* BG Image */
+    #bodyC {
+	 background-image: url(../images/bgv6.png);
+	}
+	
+	/* Info Containers */
+	
+    #tableC {
+	 height: 400px;
+	 width: 800px;
+	 border: 4px solid black;
+	 background-color: white;
+	 }
+	 
+	 #table2C {
+	 height: 400px;
+	 width: 800px;
+	 float: right;
+	 border: 4px solid black;
+	 background-color: white;
+	 }
+	 
+	 /* Text Styling */
+	 
+	 #bioC {
+	 vertical-align: top;
+	 }
+	 
+	 #nameC {
+	 font-weight: bold;
+	 font-size: 20px;
+	 }
+	 
+	 #filipinoC {
+	 font-style: italic;
+	 }
+	 
+	 /* Pictures */
+	 
+	 #img1C {
+	 width: 300px;
+	 height: 300px;
+	 float: right;
+	 margin-top: 3%;
+	 margin-right: 100px;
+	 box-shadow: 10px 10px 5px;
+	 }
+	 
+	 #img2C {
+	 width: 300px;
+	 height: 300px;
+	 float: left;
+	 margin-top: 3%;
+	 margin-left: 100px;
+	 box-shadow: 10px 10px 5px;
+	 }
+	 
+	 /* News */
+	 
+	 #newsC {
+	 display: block;
+	 background-color: white;
+	 border-style: dashed;
+	 border-color: red;
+	 width: 90%;
+	 height: 90px;
+	 margin-left: 5%;
+	 }
+	 
+	 #news2C {
+	 display: block;
+	 background-color: white;
+	 border-style: dashed;
+	 border-color: red;
+	 width: 90%;
+	 height: 90px;
+	 margin-right: 5%;
+	 float: right;
+	 }
+	 
+	 /*End of Page Styling */
+	 /* Footer */
+	 
+	 footer{
+	 float: right;
+	 margin-top: 20px;
+	 }
